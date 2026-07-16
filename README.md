@@ -1,6 +1,6 @@
 <samp>
   
-- Core Setup: A Node.js project structured for lightweight backend tracking.
+- Core Setup: A Node.js project structured for lightweight backend tracking for a site visit.
 
 - Data Tracking & Fingerprinting: Captures data points like IP addresses and page paths, utilizing browser fingerprinting to extract and log the visitor's operating system and browser details.
 
